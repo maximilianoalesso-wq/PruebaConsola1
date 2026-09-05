@@ -1,0 +1,14 @@
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\bin\Debug\net8.0\PruebaConsola1.exe
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\bin\Debug\net8.0\PruebaConsola1.deps.json
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\bin\Debug\net8.0\PruebaConsola1.runtimeconfig.json
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\bin\Debug\net8.0\PruebaConsola1.dll
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\bin\Debug\net8.0\PruebaConsola1.pdb
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.AssemblyInfoInputs.cache
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.AssemblyInfo.cs
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.csproj.CoreCompileInputs.cache
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.dll
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\refint\PruebaConsola1.dll
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.pdb
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\PruebaConsola1.genruntimeconfig.cache
+D:\Temp\ing_soft_i\Códigos\C#\PruebaConsola1\PruebaConsola1\obj\Debug\net8.0\ref\PruebaConsola1.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOAF8A/Aoer0UtSpQY7PsQp/brUwOrBDW144BAnD3Tu0wg1XBkZkMzwuLTwtYmTt6WgVPvbeOZCg7f/L0lTZyw==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\ing_soft_i\\Códigos\\C#\\PruebaConsola1\\PruebaConsola1\\PruebaConsola1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://www.nuget.org/api/v2/\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}
